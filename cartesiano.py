@@ -1,7 +1,8 @@
-#Algoritmo que compara a distância de dois pontos em um plano cartesiano.
-#Considerando as distâncias maiores ou iguais a dez como longe, e distâncias menores que 10 como perto.
-#O programa pede a digitação dos eixos x e y dos dois pontos e devolve uma mensagem de longe ou perto como valor da distância.
-
+'''
+Algoritmo que compara a distância de dois pontos em um plano cartesiano.
+Considerando as distâncias maiores ou iguais a dez como longe, e distâncias menores que 10 como perto.
+O programa pede a digitação dos eixos x e y dos dois pontos e devolve uma mensagem de longe ou perto como valor da distância.
+'''
 import math
 
 x1=int(input('Eixo x do primeiro ponto:'))

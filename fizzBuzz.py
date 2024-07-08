@@ -1,7 +1,8 @@
-#Algoritmo que resolve o desafio FizzBuzz de programação.
-#O programa imprime Fizz para os múltiplos de 3, Buzz para os múltiplos de 5 e FizzBuzz para os múltiplos de ambos.
-#É requerida a digitação do valor incial e do valor limite do intervalo a ser analisado.
-
+'''
+Algoritmo que resolve o desafio FizzBuzz de programação.
+O programa imprime Fizz para os múltiplos de 3, Buzz para os múltiplos de 5 e FizzBuzz para os múltiplos de ambos.
+É requerida a digitação do valor incial e do valor limite do intervalo a ser analisado.
+'''
 x=int(input('Valor inicial do intervalo:'))
 y=int(input('Valor limite do intervalo:'))
 if((y-x)>=1000):

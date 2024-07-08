@@ -1,6 +1,7 @@
-#Algoritmo que aplica a fórmula de bhaskara em três variáveis(a, b e c) e encontra as raízes reais da equação, se houver.
-#O programa pede a digitação dos valores a, b, e c, então realiza o cálculo da fórmula e retorna as raízes.
-
+'''
+Algoritmo que aplica a fórmula de bhaskara em três variáveis(a, b e c) e encontra as raízes reais da equação, se houver.
+O programa pede a digitação dos valores a, b, e c, então realiza o cálculo da fórmula e retorna as raízes.
+'''
 import math;
 
 a=float(input('Valor de a:'))
